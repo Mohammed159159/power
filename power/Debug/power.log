@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\power\power\main.c(12,12): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohammed Hany\Desktop\Projects\power\power\main.c(14,12): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mohammed Hany\Desktop\Projects\power\power\main.c(37): warning C4716: 'power': must return a value
+  power.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\power\Debug\power.exe
